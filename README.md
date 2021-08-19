@@ -1,5 +1,5 @@
 # Calculator – It is a PHP test project.
-It is a test project. It can then be deleted or made a private repository.
+It is a test project. This project is not maintained.
 
 ## Installation with Composer
 
